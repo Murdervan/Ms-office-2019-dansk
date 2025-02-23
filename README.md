@@ -4,8 +4,8 @@ Denne vejledning hjælper dig med at installere Microsoft Office 2019 på dansk,
 
 Forudsætninger:
 Du skal have Office 2019 installationsfilerne klar. Sørg for at have "Office2019"-mappen downloadet.
+
 Installationstrins:
-Download Office-mappen:
 
 Download Office-mappen, som indeholder alle nødvendige filer til installationen.
 Gem mappen:
