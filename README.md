@@ -1,2 +1,30 @@
-# Ms-office-2019-dansk
-Mircosoft Office 2019 dansk indenholder Word, Excel og powerpoint
+#MS Office 2019 Dansk Installationsvejledning
+Denne vejledning hjælper dig med at installere Microsoft Office 2019 på dansk, som inkluderer Word, Excel og PowerPoint.
+
+Forudsætninger:
+Du skal have Office 2019 installationsfilerne klar. Sørg for at have "Office"-mappen downloadet.
+Installationstrins:
+Download Office-mappen:
+
+Download Office-mappen, som indeholder alle nødvendige filer til installationen.
+Gem mappen:
+
+Flyt mappen til din C: drev 
+
+Åbn Kommandoprompt som administrator:
+
+Tryk Windows + X og vælg Kommandoprompt (Admin) eller Windows PowerShell (Admin).
+Naviger til Office-mappen:
+
+I Kommandoprompten skal du skrive følgende kommando:
+
+cd C:\Office2019
+Start installationen:
+
+Kør installationen med denne kommando:
+
+setup /configure Configuration.xml
+
+Følg instruktionerne:
+
+Installationen starter, og du skal bare følge de videre instruktioner på skærmen for at afslutte installationen.
