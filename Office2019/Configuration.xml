@@ -1,0 +1,20 @@
+<Configuration ID="942d4e1b-0666-4247-bfd8-7719c118b013">
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
+    <Product ID="ProPlus2019Volume" PIDKEY="NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP">
+      <Language ID="da-dk" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Outlook" />
+      <ExcludeApp ID="Publisher" />
+    </Product>
+  </Add>
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+  <Updates Enabled="FALSE" />
+</Configuration>
