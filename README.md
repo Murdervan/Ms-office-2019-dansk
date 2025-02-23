@@ -32,4 +32,5 @@ Installationen starter, og du skal bare følge de videre instruktioner på skær
 
 KILDER:
 https://www.microsoft.com/en-in/download/details.aspx?id=49117
+
 https://config.office.com/deploymentsettings
