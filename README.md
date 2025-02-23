@@ -8,9 +8,6 @@ Du skal have Office 2019 installationsfilerne klar. Sørg for at have "Office201
 Installationstrins:
 
 Download Office-mappen, som indeholder alle nødvendige filer til installationen.
-kan gøres fra cmd direkte og gemmer på C:\ 
-> curl -L -o C:\Ms-office-2019-dansk.zip https://github.com/Murdervan/Ms-office-2019-dansk/archive/refs/heads/main.zip && tar -xf C:\Ms-office-2019-dansk.zip -C C:\
-
 
 Flyt mappen til din C:\ drev 
 
