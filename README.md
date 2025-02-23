@@ -10,12 +10,11 @@ Download Office-mappen:
 Download Office-mappen, som indeholder alle nødvendige filer til installationen.
 Gem mappen:
 
-Flyt mappen til din C: drev 
+Flyt mappen til din C:\ drev 
 
-Åbn Kommandoprompt som administrator:
+Her efter åbn Kommandoprompt som administrator:
 
-Tryk Windows + X og vælg Kommandoprompt (Admin).
-Naviger til Office-mappen:
+Tryk Windows + X og vælg Kommandoprompt eller powershell (Admin).
 
 I Kommandoprompten skal du skrive følgende kommando:
 
