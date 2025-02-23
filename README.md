@@ -1,8 +1,8 @@
-#MS Office 2019 Dansk Installationsvejledning
+# MS Office 2019 Dansk Installationsvejledning
 Denne vejledning hjælper dig med at installere Microsoft Office 2019 på dansk, som inkluderer Word, Excel og PowerPoint.
 
 Forudsætninger:
-Du skal have Office 2019 installationsfilerne klar. Sørg for at have "Office"-mappen downloadet.
+Du skal have Office 2019 installationsfilerne klar. Sørg for at have "Office2019"-mappen downloadet.
 Installationstrins:
 Download Office-mappen:
 
@@ -13,7 +13,7 @@ Flyt mappen til din C: drev
 
 Åbn Kommandoprompt som administrator:
 
-Tryk Windows + X og vælg Kommandoprompt (Admin) eller Windows PowerShell (Admin).
+Tryk Windows + X og vælg Kommandoprompt (Admin).
 Naviger til Office-mappen:
 
 I Kommandoprompten skal du skrive følgende kommando:
