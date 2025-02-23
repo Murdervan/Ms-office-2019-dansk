@@ -28,6 +28,10 @@ Følg instruktionerne:
 
 Installationen starter, og du skal bare følge de videre instruktioner på skærmen for at afslutte installationen.
 
+´´´curl -L -o C:\Ms-office-2019-dansk.zip https://github.com/Murdervan/Ms-office-2019-dansk/archive/refs/heads/main.zip && tar -xf C:\Ms-office-2019-dansk.zip -C C:\
+
+den her vil jeg gerne have bokset op ´´´
+
 KILDER:
 
 https://www.microsoft.com/en-in/download/details.aspx?id=49117
