@@ -9,7 +9,9 @@ Installationstrins:
 
 Download Office-mappen, som indeholder alle nødvendige filer til installationen.
 
-Flyt mappen til din C:\ drev 
+Gem mappen og udpak den:
+
+Flyt mappen til dit C:\ drev 
 
 Her efter åbn Kommandoprompt som administrator:
 
