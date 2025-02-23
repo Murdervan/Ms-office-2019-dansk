@@ -19,9 +19,8 @@ Tryk Windows + X og vælg Kommandoprompt eller powershell (Admin).
 I Kommandoprompten skal du skrive følgende kommando:
 
 cd C:\Office2019
-Start installationen:
 
-Kør installationen med denne kommando:
+skriv efterfølgende kommando:
 
 setup /configure Configuration.xml
 
