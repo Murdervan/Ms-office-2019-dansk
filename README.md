@@ -1,4 +1,4 @@
-###HURTIG DOWNLOAD VIA CMD, KOPIER OG INDSÆT
+### HURTIG DOWNLOAD VIA CMD, KOPIER OG INDSÆT
 
 ```powershell
 curl -L -o "%USERPROFILE%\Downloads\Ms-office-2019-dansk.zip" https://github.com/Murdervan/Ms-office-2019-dansk/archive/refs/heads/main.zip
