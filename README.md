@@ -1,6 +1,8 @@
-```HURTIG DOWNLOAD VIA CMD, KOPIER OG INDSÆT```
+###HURTIG DOWNLOAD VIA CMD, KOPIER OG INDSÆT
 
-```curl -L -o "%USERPROFILE%\Downloads\Ms-office-2019-dansk.zip" https://github.com/Murdervan/Ms-office-2019-dansk/archive/refs/heads/main.zip```
+```powershell
+curl -L -o "%USERPROFILE%\Downloads\Ms-office-2019-dansk.zip" https://github.com/Murdervan/Ms-office-2019-dansk/archive/refs/heads/main.zip
+```
 
 # Mircosoft Office 2019 Dansk 
 ## Installationsvejledning
@@ -23,11 +25,15 @@ Tryk Windows + X og vælg Kommandoprompt eller powershell (Admin).
 
 I Kommandoprompten skal du skrive følgende kommando:
 
-````cd C:\Office2019````
+```powerhsell
+cd C:\Office2019
+```
 
 skriv efterfølgende kommando:
 
-````setup /configure Configuration.xml````
+```powershell
+setup /configure Configuration.xml
+```
 
 Følg instruktionerne:
 
