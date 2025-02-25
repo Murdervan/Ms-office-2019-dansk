@@ -1,3 +1,18 @@
+<div align="right">
+  <a href="https://github.com/Murdervan/Ms-office-2019-dansk">
+    <img src="https://img.shields.io/github/stars/Murdervan/Ms-office-2019-dansk?style=social&label=Stars" alt="GitHub stars"/>
+  </a>
+</div>
+<div align="right">
+  <a href="https://github.com/Murdervan/Ms-office-2019-dansk">
+    <img src="https://img.shields.io/github/forks/Murdervan/Ms-office-2019-dansk?style=social&label=Forks" alt="GitHub forks"/>
+  </a>
+</div>
+<div align="right">
+  <a href="https://github.com/Murdervan/Ms-office-2019-dansk/watchers">
+    <img src="https://img.shields.io/github/watchers/Murdervan/Ms-office-2019-dansk?style=social&label=Watchers" alt="GitHub watchers"/>
+  </a>
+</div>
 ### HURTIG DOWNLOAD VIA CMD, KOPIER OG INDSÆT
 
 ```powershell
